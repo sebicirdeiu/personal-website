@@ -25,7 +25,7 @@ function Contact() {
                     </a>
                 </li>
                 <li className='w-[160px] h-[60px] flex justify-between items-center my-4 bg-[#565f79]'> 
-                    <a  className='flex justify-between items-center w-full  text-gray-300 text-xl' href='../assets/CV/Sebi_Cirdeiu.pdf' download>
+                    <a  className='flex justify-between items-center w-full  text-gray-300 text-xl' href='personal-website/src/assets/CV/Sebi_Cirdeiu.pdf' download>
                         Resume <BsFillPersonLinesFill size={30}/>
                     </a>
                 </li>

@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/personal-website/static/css/main.db7cf16e.css",
+    "main.js": "/personal-website/static/js/main.c8b5b963.js",
+    "static/media/Weather-App.png": "/personal-website/static/media/Weather-App.119da45fc83158beec9f.png",
+    "static/media/Random-Movie.png": "/personal-website/static/media/Random-Movie.870b6c97ac3897fab8e3.png",
+    "static/media/Restaurant.png": "/personal-website/static/media/Restaurant.a68a0ceaf3b321db3768.png",
+    "static/media/Guess-the-word.png": "/personal-website/static/media/Guess-the-word.72bce3beedc42f82f127.png",
+    "static/media/Form.png": "/personal-website/static/media/Form.17f16a903d986024ce0f.png",
+    "static/media/Dashboard.png": "/personal-website/static/media/Dashboard.d9c6eac00e821c302b55.png",
+    "static/media/logo.png": "/personal-website/static/media/logo.aafa4dc5373c0911c92e.png",
+    "static/media/react.png": "/personal-website/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/github.png": "/personal-website/static/media/github.3b9e32903aa89111875d.png",
+    "static/media/tailwind.png": "/personal-website/static/media/tailwind.e47ac876b8d4d0bba47a.png",
+    "static/media/css.png": "/personal-website/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/javascript.png": "/personal-website/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/personal-website/index.html",
+    "main.db7cf16e.css.map": "/personal-website/static/css/main.db7cf16e.css.map",
+    "main.c8b5b963.js.map": "/personal-website/static/js/main.c8b5b963.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db7cf16e.css",
+    "static/js/main.c8b5b963.js"
+  ]
+}
